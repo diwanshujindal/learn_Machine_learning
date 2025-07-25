@@ -31,7 +31,9 @@ To prevent overfitting, several techniques can be employed:
 ### Q3 Gradient Descent
 
 How does gradient descent work, and what is the role of the learning rate?
+
 **Ans**
+
 **Gradient Descent** is an iterative optimization algorithm used to find the minimum of a function, most commonly the loss function in machine learning models. The goal is to adjust the model's parameters (weights and biases) in a way that minimizes the difference between the model's predictions and the actual values.
 
 Here's how it works:
